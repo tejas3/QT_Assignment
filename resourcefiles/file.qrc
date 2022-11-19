@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image"/>
+    <qresource prefix="/">
+        <file>delta3.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,1 @@
+QFile : iinformation into file we are reding using read function

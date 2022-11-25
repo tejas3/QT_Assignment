@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>delete-5862.png</file>
+        <file>folder-1449.png</file>
+        <file>remove-folder-11634.png</file>
+    </qresource>
+</RCC>
